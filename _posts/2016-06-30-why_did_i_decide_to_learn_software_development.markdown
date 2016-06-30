@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "**Why did I decide to learn software development?**"
+date:   2016-06-30 01:34:42 +0000
+---
+
+
+So why did I get into software development? I actually got into coding for a couple of reasons but most of all because it was something that I kept coming back to all my life. While I was growing up I spend a lot of time jumping around from wanting to be either an artist or a programmer.  I always felt like I wanted to be creative and work with my hands and I didn’t believe that programming was creative. So I would start trying to learn a language and then get that creative itch and drop it so that I could focus on being an artist. This cycle of wanting to be an artist and then wanting to learn programming went on for a lot longer than it probably should have. This cycle was also the reason that I decided to enter college and get a fine arts degree, only to start feeling lost and as if I was missing out on a big part of myself. So once again I decided to start learning how to program in my spare time and then for the first time I started to realize why I kept coming back to coding. 
+
+	It was the joy that I got from being able to not only make but to create solutions for other people’s problems. It was one of the most amazing feelings to be able to not only say, at the end of the day, that I have created something that didn’t exist earlier but that I have created something that people can use. It was also the ways that coding feels like working on one big puzzle that is constantly changing so you have to always be learning something new and figuring out how to improve your skills. And lastly it is also the way that coding allowed me to be expressive. This was something that had never occurred to me when I thought of coding before, but its true. And while programing does have its strict specifications and constructs there are so many more ways that programmers can use them to create their own solution to a problem.
+
+	It was because of those reasons that I felt like I now knew what I wanted to do. I was now focused on on pursing coding but I knew that I could no longer just fumble around trying my best to learn on my own. Thats why I want on a search to find a school that would give me the structure that I need to get serious about programing. That search eventually let me to Flatiron and as soon as I went through the coursework I knew that I had finally found the place that could teach me and help me grow as a programmer.
