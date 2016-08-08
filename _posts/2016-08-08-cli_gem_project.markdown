@@ -9,6 +9,7 @@ date:   2016-08-07 23:09:49 -0400
   The first thing I had to figure out was just how to build a gem from scratch. Lucky for me in the CLI lesson plan there was as link to a video walk-through of building a CLI Gem called Daily Deal. Using that as a starter base I build up my app first with what I wanted to it show without worrying about actually coding it first. This meant that I had to think about my end result and build a concept of what I wanted the CLI to display. Doing it this way really helped to break down the steps and kept me from trying to do everything right from the beginning.
 
   So for my CLI gem I wanted the User to first be asked what kind of system they would like to search for, this would present them with options to chose from. Then based on that choice they could select the month they want to see the results for. The last thing they should be able to do was select the game they would like to learn more about.
+----
 ** What system would you like to look for? **
 PC  || Xbox One || PS4 || Exit
 **What month would you like to see?**
