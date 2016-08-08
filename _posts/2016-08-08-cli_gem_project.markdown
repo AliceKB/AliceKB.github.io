@@ -10,13 +10,7 @@ The first thing I had to figure out was just how to build a gem from scratch. Lu
 
 So for my CLI gem I wanted the User to first be asked what kind of system they would like to search for, this would present them with options to chose from. Then based on that choice they could select the month they want to see the results for. The last thing they should be able to do was select the game they would like to learn more about.
 
-| What system would you like to look for? |
-| -------- | -------- | -------- |
-| PC, Xbox One,  PS4 or  EXIT |
-
-| What month would you like to see? |
-| -------- | -------- | -------- |
-| PC, Xbox One,  PS4 or  EXIT |
+![](http://i.imgur.com/bHFE2Lu.png)
 
 With that out of the way it was time to build the actual scraper that was going to give me back the resulting list. After some searching I found a page that not only listed the releases but looked like it was being updated in a consistent matter. Using Nokogiri, openHTML, my browser’s inspector tool, and a lot of trial and error I narrowed down the selectors for each line of videogames with their systems and release dates. I had the scraper return an array so that it would be easier to search through.
 
