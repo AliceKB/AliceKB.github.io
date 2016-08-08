@@ -8,7 +8,7 @@ date:   2016-08-07 23:09:49 -0400
 
   The first thing I had to figure out was just how to build a gem from scratch. Lucky for me in the CLI lesson plan there was as link to a video walk-through of building a CLI Gem called Daily Deal. Using that as a starter base I build up my app first with what I wanted to it show without worrying about actually coding it first. This meant that I had to think about my end result and build a concept of what I wanted the CLI to display. Doing it this way really helped to break down the steps and kept me from trying to do everything right from the beginning.
 
-  So for my CLI gem I wanted the User to first be asked what kind of system they would like to search for, this would present them with options to chose from. Then based on that choice they could select the month they want to see the results for. The last thing they should be able to do was select the game they would like to learn more about. Like this:
+  So for my CLI gem I wanted the User to first be asked what kind of system they would like to search for, this would present them with options to chose from. Then based on that choice they could select the month they want to see the results for. The last thing they should be able to do was select the game they would like to learn more about.
 ** What system would you like to look for? **
 PC  || Xbox One || PS4 || Exit
 **What month would you like to see?**
@@ -16,7 +16,6 @@ January        May          September
 February       June         October
 March          July         November
 April          August       December
-
 **MAY - PC**
 BATTLEBORN – MAY 3
 FINAL FANTASY 10/10-2 HD REMASTER  – MAY 12
@@ -24,7 +23,6 @@ DOOM  – MAY 13
 HOMEFRONT: THE REVOLUTION – MAY 17
 SHADWEN – MAY 17
 FALLOUT 4: FAR HARBOR DLC – MAY 19
-
 **BATTLEBORN  - PC**
 Set in a distant future, the only hope for the last star in a dying universe is a new breed of warriors who must put aside their differences to drive back an unstoppable menace. Players choose from a myriad of powerful heroes and fight together alongside their friends in a narrative-driven co-operative campaign, or battle against them in fast-paced competitive multiplayer matches.
 Now that I had the concept down, It was time to start building the Gem. I found that having something to use as a reference was really helpful here since I could break down each section and just build one part at a time. For the systems and months this involved creating the output strings and asking the User for input then I had to make sure to write checks that would would keep the User from entering something invalid. For the checks I decided to create arrays that would hold all the valid options and then check if the input was included in the corresponding array. To make it easier to check I made sure to ensure that the input was turned into uppercase so that it was easier to match.
