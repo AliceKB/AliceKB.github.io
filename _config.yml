@@ -1,14 +1,14 @@
 # Site settings
-title: Alice's Adventure In Development
+title: ArgumentError
 header-img: img/home-bg.png
 email: alicekb01@gmail.com
-copyright_name: AliceKB
+copyright_name: Alicekb
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about my learning.co experience
+  A blog about my experience learning to program.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  AliceKB
-learn_profile: AliceKB
+github_username:  Alicekb
+learn_profile: Alicekb
 email_username: alicekb01@gmail.com
 
 # Build settings
