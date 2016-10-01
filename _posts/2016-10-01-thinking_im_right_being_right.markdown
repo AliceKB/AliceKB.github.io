@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Thinking I'm right != Being Right"
+date:   2016-10-01 16:50:51 +0000
+---
+
+
+   It has been a couple of months since I started at Flatiron School and began learning to code, and in that time I have learned a lot about programming and the web. I have build some Apps and have grown more confident in my skills and knowledge. However the greatest lesson I learned was not anything that I read about or actively sought out, it is actually something that I learned while I was learning everything else. It sank in slowly as I was building the Apps and as I was trying to past each test. That lesson was that it is okay for me to be wrong, that being wrong is a part of the process.
+
+   When I first started programming, I came into each project so sure that I had to get everything right the first time, every time. I had studied and I was confident that I knew what I had to write. It wasn't until I actually started coding that I realized that just because I think I am right is not the same as being right. That is to say that just because I believe the code I am writing is right, more often then not I am going to still run into an error. It was discouraging at first to run into each error and my confidence started to fade. However the more I coded the more I saw that being wrong was actually just another part of the process. But being wrong isn’t as negative as  I first thought, being wrong just meant that I had to rethink what I was doing or even do more research. That was an important lesson for me to learn, that just because I was wrong that didn't make me a bad programmer or student. Running into and solving errors is an important part of programming. It also lifted the weight off my shoulders of having to be right from the very beginning. I no longer had to think of the perfect away to make my code run but I could just build and improve my code. 
+
+   I know now that I am going to be wrong, even and maybe especially when I strongly feel that I am right, but that is okay. Getting the experience of solving errors with each test has made me much more comfortable with the idea of being wrong, and not just in coding. I have found that in my momments outside of coding, It has allowed me to see that just because I believe that something must be done a certain way that doesn't always mean it is the best way. I have grown more open to acknowleding new and different ideas that contradict my own instead of fighting them. 
+So don’t be afraid of being wrong, accept that it will happen and be open to it, learn from it. Don’t let yourself get caught up in having to be right all the time.
