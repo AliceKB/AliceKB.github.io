@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acme Notebook with Javascript!"
-date:   2017-02-01 03:32:34 +0000
+date:   2017-01-31 22:32:35 -0500
 ---
 
 After I build my Acme Notebook project, I started on the javascript portion of my lessions and was then tasked with adding Javascript to my rails project. Part of the assignment was to make sure that I had an index page and a show page rendering through javascript after calling the database. This blog post is going to be about how I changed my main page to use Javascript to update the page.
@@ -15,6 +15,7 @@ Here is a quick recap of what features the Acme Notebook has:
 So the first thing I needed to do was get the User show page ready. Which I did by removing the erb that went through the page adding the notes, instead I replaced the code with a simple div with an id. This div was now going to be where I was going to add all the html for my notes. Now in order to actually create and render each Note I wrote an ajax call to the /notes route:
 
 app/asses/javascript/notes.js
+
 ```
 let getNotes = function() {
   $.ajax({
@@ -30,6 +31,7 @@ let getNotes = function() {
 ```
 
 app/controllers/notes_controller.rb
+
 ```
 def index
   @notes = Note.all_by_user(current_user.id)
